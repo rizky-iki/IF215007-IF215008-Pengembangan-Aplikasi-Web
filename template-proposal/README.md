@@ -23,5 +23,5 @@ ID | integer | 11357
 username | string | muhammad udin
 
 ## UX Wireframe
-
+![1](https://user-images.githubusercontent.com/80630206/190910526-022998e1-40ed-4010-8282-d0a34c192930.jpg)
 
